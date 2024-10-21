@@ -1,0 +1,23 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#Submit
+{
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    border: 0;
+    background-color: green;
+    cursor: pointer;
+}
+#l1:hover,#l2:hover,#l3:hover,#l4:hover,#l5
+{
+    cursor: pointer;
+}
+
+#Submit:hover
+{
+    background-color: rgb(30, 215, 30);
+    color: white;
+}
